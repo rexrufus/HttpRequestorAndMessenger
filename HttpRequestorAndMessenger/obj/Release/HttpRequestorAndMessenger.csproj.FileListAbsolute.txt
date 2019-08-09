@@ -1,0 +1,5 @@
+C:\Sandbox\HttpRequestorAndMessenger\HttpRequestorAndMessenger\bin\Release\HttpRequestorAndMessenger.exe.config
+C:\Sandbox\HttpRequestorAndMessenger\HttpRequestorAndMessenger\bin\Release\HttpRequestorAndMessenger.exe
+C:\Sandbox\HttpRequestorAndMessenger\HttpRequestorAndMessenger\bin\Release\HttpRequestorAndMessenger.pdb
+C:\Sandbox\HttpRequestorAndMessenger\HttpRequestorAndMessenger\obj\Release\HttpRequestorAndMessenger.exe
+C:\Sandbox\HttpRequestorAndMessenger\HttpRequestorAndMessenger\obj\Release\HttpRequestorAndMessenger.pdb
